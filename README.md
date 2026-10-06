@@ -2,6 +2,8 @@
 
 Önálló HTML oldal (`index.html`) az ülő-álló munkahely ergonómiai beállításához.
 
+**Élő oldal:** https://udvariistvan2016-ui.github.io/ulo-allo-munkahely-beallito/
+
 ## Eredet
 
 - Claude chatben készült: **„Ikea állóasztal szerkezet és ergonómiai beállítások”**
